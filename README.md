@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on iOS, React Native, Flutter, Scala, React
+- 🔭 I’m currently working on iOS, React Native, Flutter, Scala, React, Nodejs, Expressjs, Javascript, Typescript, Python
 - 📫 You can reach me: freelancetushar@gmail.com
 ###
 
